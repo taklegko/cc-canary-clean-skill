@@ -1,0 +1,16 @@
+{
+  "name": "cc-canary-clean-skill",
+  "version": "0.1.0",
+  "description": "Codex Commons canary fixture for cc-canary-clean-skill.",
+  "repository": "https://github.com/taklegko/cc-canary-clean-skill",
+  "skills": [
+    "skills/canary.md"
+  ],
+  "interface": {
+    "displayName": "cc-canary-clean-skill",
+    "shortDescription": "Canary fixture cc-canary-clean-skill.",
+    "longDescription": "Canary fixture cc-canary-clean-skill for Codex Commons trust pipeline testing.",
+    "developerName": "Codex Commons Canary",
+    "category": "Developer Tools"
+  }
+}
