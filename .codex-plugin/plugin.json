@@ -3,6 +3,17 @@
   "version": "0.1.0",
   "description": "Codex Commons canary fixture for cc-canary-clean-skill.",
   "repository": "https://github.com/taklegko/cc-canary-clean-skill",
+  "homepage": "https://github.com/taklegko/cc-canary-clean-skill",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "canary",
+    "test"
+  ],
+  "author": {
+    "name": "Codex Commons Canary",
+    "url": "https://github.com/taklegko"
+  },
   "skills": [
     "skills/canary.md"
   ],
@@ -11,6 +22,12 @@
     "shortDescription": "Canary fixture cc-canary-clean-skill.",
     "longDescription": "Canary fixture cc-canary-clean-skill for Codex Commons trust pipeline testing.",
     "developerName": "Codex Commons Canary",
-    "category": "Developer Tools"
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://github.com/taklegko/cc-canary-clean-skill",
+    "privacyPolicyURL": "https://github.com/taklegko/cc-canary-clean-skill/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/taklegko/cc-canary-clean-skill/blob/main/TERMS.md"
   }
 }
